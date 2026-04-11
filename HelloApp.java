@@ -17,6 +17,6 @@ public class HelloApp {
             name = nameBuilder.toString();
         }
 
-        System.out.println("Hello, " + name + "!");
+        System.out.println("UC5 feature added");
     }
 }
